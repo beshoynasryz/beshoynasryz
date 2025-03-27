@@ -1,93 +1,120 @@
-# Beshoy Nasry
+<h1 align="center">Hi, I'm Beshoy Nasry 👋</h1>
 
-**Full Stack MERN Developer**
+<p align="center">
+  <b>Full Stack MERN Developer</b>
+</p>
 
-📧 **Email:** beshoynasry0@gmail.com  
-📱 **Phone:** +20 109 560 4355  
+<p align="center">
+  <a href="https://github.com/beshoynasryz">
+    <img src="https://img.shields.io/github/followers/beshoynasryz?label=Followers&style=social" alt="GitHub Followers">
+  </a>
+  <a href="https://leetcode.com/u/beshoynasry0/">
+    <img src="https://img.shields.io/badge/LeetCode-BeshoyNasry-orange?style=flat&logo=leetcode" alt="LeetCode Profile">
+  </a>
+  <a href="mailto:beshoynasry0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-beshoynasry0%40gmail.com-red?style=flat&logo=gmail" alt="Email">
+  </a>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://beshoynasry.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beshoy-nasry-2a3627220/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beshoynasryz)
+
 📍 **Location:** El-Nozha 2, Egypt  
-🌐 [Portfolio](https://beshoynasry.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/beshoy-nasry-2a3627220/) | [GitHub](https://github.com/beshoynasryz)  
+📱 **Phone:** +20 109 560 4355  
+📧 **Email:** [beshoynasry0@gmail.com](mailto:beshoynasry0@gmail.com)
 
 ---
 
-## Summary
+## 🛠 Tech Stack
 
-Enthusiastic and detail-oriented Full Stack MERN Developer with 1.5 years of hands-on experience in designing and deploying scalable web applications. Skilled in a wide array of front-end and back-end technologies including React, Redux, Node.js, and Next.js. Proven expertise in creating efficient REST APIs, integrating third-party services, and optimizing application performance through server-side rendering (SSR) and static site generation (SSG). Strong foundation in Agile methodology, with a track record of contributing to team projects and ensuring timely delivery of high-quality software solutions.
+**Frontend:**  
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
----
+**Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 
-## Professional Experience
+**Databases:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Mahm El Khaleg | Full Stack Developer  
-**May 2024 – Present | Remote, Kuwait**  
-- Developed RESTful APIs with secure user authentication and role-based access control using JWT and Joi for data validation.
-- Integrated payment processing via Tap Payment, SMS notifications with Vonage, and real-time communication using Socket.io.
-- Optimized client-side performance with React and Next.js, leveraging SSR and SSG for enhanced user experience.
-- Collaborated with cross-functional teams to manage deployments on cloud platforms and maintain CI/CD pipelines.
-
-### All Safe | Full Stack Developer  
-**Jan 2024 – Mar 2024 | Cairo, Egypt**  
-- Designed and built a Lawyer Case Management System, providing real-time updates on case statuses, progress tracking, and performance metrics.
-- Created an admin dashboard for user and role management, and integrated Tap Payment to support secure payments for legal services.
-- Key Technologies: Node.js, Express, Next.js, React, Sequelize ORM, MongoDB/MySQL, Socket.io, Tap Payment, Vonage API.
-
-### Algoriza | Backend Developer Intern  
-**Aug 2023 – Dec 2023**  
-- Developed backend systems using MongoDB, Entity Framework, Express, and Node.js, applying Repository and Onion Architecture patterns.
-- Contributed to project development in an agile environment, enhancing skills in team collaboration and version control.
+**Tools & Services:**  
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## Projects
+## 🏆 LeetCode Stats
 
-### Engineer Project Management Platform
-Developed REST APIs and backend services for a web and mobile platform, facilitating project management for engineering teams. Integrated real-time video and chat functionality with Socket.io and SMS notifications with Vonage.
-
-### Juant Booking Site
-Created a comprehensive booking platform for workspaces, restaurants, and other venues. Technologies used include Node.js, MongoDB, HTML/CSS, Bootstrap, and EJS.
-
-### E-commerce Platform
-Built a responsive e-commerce site with Node.js, MongoDB, and Express, implementing JWT for user authentication and secure product management.
-
-### Portfolio Website
-Developed a dynamic and interactive portfolio website using React.js, showcasing projects and skills with responsive design elements and user-friendly navigation.
+<p align="center">
+  <a href="https://leetcode.com/u/beshoynasry0/">
+    <img src="https://leetcard.jacoblin.cool/beshoynasry0?theme=dark&font=Montserrat" alt="LeetCode Stats">
+  </a>
+</p>
 
 ---
 
-## Skills
+## 💼 Work Experience
 
-- **Frontend**: React, Redux, HTML, CSS, Tailwind CSS, Bootstrap  
-- **Backend**: Node.js, Express.js, Next.js, RESTful API development, Socket.io  
-- **Databases**: MongoDB, MySQL, Sequelize ORM  
-- **Tools & Services**: Git, GitHub, NPM, TypeScript, Tap Payment, Vonage API, JWT Authentication, Agile Methodologies  
+### **🚀 Full Stack Developer | Mahm El Khaleg**  
+📍 Remote, Kuwait | **May 2024 – Present**  
+✔ Developed RESTful APIs with **JWT Authentication** and **role-based access control**  
+✔ Integrated **Tap Payment**, **Vonage SMS**, and **Socket.io** for real-time updates  
+✔ Optimized **React + Next.js** applications for performance using **SSR and SSG**  
 
----
+### **🔧 Full Stack Developer | All Safe**  
+📍 Cairo, Egypt | **Jan 2024 – Mar 2024**  
+✔ Designed a **Lawyer Case Management System** with real-time status updates  
+✔ Built an **Admin Dashboard** with user/role management & secure payment integration  
+✔ Tech Stack: **Node.js, Express, Next.js, React, Sequelize ORM, MongoDB, MySQL, Tap Payment**  
 
-## LeetCode Stats  
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/beshoynasry0?theme=dark&font=Montserrat)](https://leetcode.com/u/beshoynasry0/)
-
----
-
-## Education
-
-**Bachelor’s Degree in Computer Science**  
-Modern Academy, Faculty of Computer Science | **Aug 2019 – Jun 2023**  
-
----
-
-## Professional Development
-
-- **Full-Stack Development** - Amit Learning  
-- **React.js** - Itrax Academy  
-- **Node.js and Express** - ITI  
+### **🖥 Backend Developer Intern | Algoriza**  
+📍 Egypt | **Aug 2023 – Dec 2023**  
+✔ Built scalable backend services with **Node.js, Express, and MongoDB**  
+✔ Applied **Repository and Onion Architecture** for structured codebases  
 
 ---
 
-## Languages
+## 🚀 Projects
 
-- **Arabic**: Native  
-- **English**: Proficient  
+- **Engineer Project Management Platform** – Developed REST APIs & backend for a project management platform  
+- **Juant Booking Site** – Created a booking platform for workspaces and restaurants  
+- **E-commerce Platform** – Built a responsive online store with secure JWT authentication  
+- **Portfolio Website** – A dynamic **React.js** portfolio showcasing my projects and skills  
 
 ---
 
-I’m passionate about contributing to innovative projects and continuing to grow as a developer. Let’s connect to explore collaboration opportunities!  
+## 🎓 Education
+
+🎓 **Bachelor’s Degree in Computer Science**  
+📍 Modern Academy, Egypt | **2019 – 2023**  
+
+---
+
+## 📜 Certifications & Training
+
+✔ **Full-Stack Development** - Amit Learning  
+✔ **React.js** - Itrax Academy  
+✔ **Node.js and Express** - ITI  
+
+---
+
+## 🌍 Languages
+
+🇪🇬 **Arabic** – Native  
+🇬🇧 **English** – Proficient  
+
+---
+
+### 🚀 **Let's Build Something Amazing!**  
+Feel free to reach out and collaborate! 😃  
