@@ -5,7 +5,7 @@
 📧 **Email:** beshoynasry0@gmail.com  
 📱 **Phone:** +20 109 560 4355  
 📍 **Location:** El-Nozha 2, Egypt  
-🌐 [Portfolio](https://beshoynasry.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/beshoy-nasry-2a3627220/) | [GitHub](https://github.com/beshoynasryz)
+🌐 [Portfolio](https://beshoynasry.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/beshoy-nasry-2a3627220/) | [GitHub](https://github.com/beshoynasryz)  
 
 ---
 
@@ -55,17 +55,23 @@ Developed a dynamic and interactive portfolio website using React.js, showcasing
 
 ## Skills
 
-- **Frontend**: React, Redux, HTML, CSS, Tailwind CSS, Bootstrap
-- **Backend**: Node.js, Express.js, Next.js, RESTful API development, Socket.io
-- **Databases**: MongoDB, MySQL, Sequelize ORM
-- **Tools & Services**: Git, GitHub, NPM, TypeScript, Tap Payment, Vonage API, JWT Authentication, Agile Methodologies
+- **Frontend**: React, Redux, HTML, CSS, Tailwind CSS, Bootstrap  
+- **Backend**: Node.js, Express.js, Next.js, RESTful API development, Socket.io  
+- **Databases**: MongoDB, MySQL, Sequelize ORM  
+- **Tools & Services**: Git, GitHub, NPM, TypeScript, Tap Payment, Vonage API, JWT Authentication, Agile Methodologies  
+
+---
+
+## LeetCode Stats  
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/beshoynasry0?theme=dark&font=Montserrat)](https://leetcode.com/u/beshoynasry0/)
 
 ---
 
 ## Education
 
 **Bachelor’s Degree in Computer Science**  
-Modern Academy, Faculty of Computer Science | **Aug 2019 – Jun 2023**
+Modern Academy, Faculty of Computer Science | **Aug 2019 – Jun 2023**  
 
 ---
 
@@ -75,6 +81,8 @@ Modern Academy, Faculty of Computer Science | **Aug 2019 – Jun 2023**
 - **React.js** - Itrax Academy  
 - **Node.js and Express** - ITI  
 
+---
+
 ## Languages
 
 - **Arabic**: Native  
@@ -82,4 +90,4 @@ Modern Academy, Faculty of Computer Science | **Aug 2019 – Jun 2023**
 
 ---
 
-I’m passionate about contributing to innovative projects and continuing to grow as a developer. Let’s connect to explore collaboration opportunities!
+I’m passionate about contributing to innovative projects and continuing to grow as a developer. Let’s connect to explore collaboration opportunities!  
