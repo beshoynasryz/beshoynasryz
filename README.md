@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Beshoy Nasry</h1>
+<!-- Animated Heading -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
+  Hi, I'm <strong>Beshoy Nasry</strong>
+</h1>
 <h3 align="center">🚀 Full Stack MERN Developer | Passionate about Scalable Web Solutions</h3>
 
 <p align="center">
@@ -24,13 +28,11 @@
 
 ---
 
-## ⚡ About Me  
+## 🚀 About Me  
 <p align="center">
   💻 Full Stack Developer with <strong>1.5+ years of experience</strong> in <strong>MERN Stack Development</strong>.  
   <br>
   🎯 Skilled in <strong>React.js, Redux, Node.js, Express.js, MongoDB, and Next.js</strong>.  
-  <br>
-  🚀 Passionate about <strong>scalable, efficient, and user-friendly applications</strong>.  
   <br>
   🌱 Currently exploring <strong>high-performance backend architectures and automation testing</strong>.  
   <br>
@@ -41,17 +43,20 @@
 
 ## 🔥 Tech Stack  
 <p align="center">
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-%23000000.svg?style=for-the-badge&logo=socket.io&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,nodejs,express,mongodb,mysql,git,github,docker,typescript,vscode,postman,graphql" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beshoynasryz&theme=radical&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=beshoynasryz&show_icons=true&theme=radical&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beshoynasryz&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -66,55 +71,45 @@
 ---
 
 ## 💼 Work Experience  
-<p align="center">
-  🔹 **Full Stack Developer | Mahm El Khaleg** - Remote, Kuwait | <strong>May 2024 – Present</strong>  
-  - Developed **RESTful APIs** with **JWT Authentication** and **role-based access control**.  
-  - Integrated **Tap Payment**, **Vonage SMS**, and **Socket.io** for real-time updates.  
-  - Optimized **React + Next.js** applications for performance using **SSR and SSG**.  
-  <br>
-  🔹 **Full Stack Developer | All Safe** - Cairo, Egypt | <strong>Jan 2024 – Mar 2024</strong>  
-  - Designed a **Lawyer Case Management System** with real-time status updates.  
-  - Built an **Admin Dashboard** with user/role management & secure payment integration.  
-  <br>
-  🔹 **Backend Developer Intern | Algoriza** - Egypt | <strong>Aug 2023 – Dec 2023</strong>  
-  - Built scalable backend services with **Node.js, Express, and MongoDB**.  
-  - Applied **Repository and Onion Architecture** for structured codebases.  
-</p>
+🔹 **Full Stack Developer | Mahm El Khaleg** - Remote, Kuwait | <strong>May 2024 – Present</strong>  
+- Developed **RESTful APIs** with **JWT Authentication** and **role-based access control**.  
+- Integrated **Tap Payment**, **Vonage SMS**, and **Socket.io** for real-time updates.  
+- Optimized **React + Next.js** applications for performance using **SSR and SSG**.  
+
+🔹 **Full Stack Developer | All Safe** - Cairo, Egypt | <strong>Jan 2024 – Mar 2024</strong>  
+- Designed a **Lawyer Case Management System** with real-time status updates.  
+- Built an **Admin Dashboard** with user/role management & secure payment integration.  
+
+🔹 **Backend Developer Intern | Algoriza** - Egypt | <strong>Aug 2023 – Dec 2023</strong>  
+- Built scalable backend services with **Node.js, Express, and MongoDB**.  
+- Applied **Repository and Onion Architecture** for structured codebases.  
 
 ---
 
 ## 🚀 Featured Projects  
-<p align="center">
-  🔹 **Engineer Project Management Platform** – REST APIs & backend for a project management platform.  
-  🔹 **Juant Booking Site** – Booking platform for workspaces and restaurants.  
-  🔹 **E-commerce Platform** – Responsive online store with secure JWT authentication.  
-  🔹 **Portfolio Website** – Dynamic **React.js** portfolio showcasing my projects and skills.  
-</p>
+🔹 **Engineer Project Management Platform** – REST APIs & backend for a project management platform.  
+🔹 **Juant Booking Site** – Booking platform for workspaces and restaurants.  
+🔹 **E-commerce Platform** – Responsive online store with secure JWT authentication.  
+🔹 **Portfolio Website** – Dynamic **React.js** portfolio showcasing my projects and skills.  
 
 ---
 
 ## 🎓 Education  
-<p align="center">
-  🎓 <strong>Bachelor’s Degree in Computer Science</strong>  
-  📍 Modern Academy, Egypt | <strong>2019 – 2023</strong>  
-</p>
+🎓 <strong>Bachelor’s Degree in Computer Science</strong>  
+📍 Modern Academy, Egypt | <strong>2019 – 2023</strong>  
 
 ---
 
 ## 📜 Certifications & Training  
-<p align="center">
-  ✔ **Full-Stack Development** - Amit Learning  
-  ✔ **React.js** - Itrax Academy  
-  ✔ **Node.js and Express** - ITI  
-</p>
+✔ **Full-Stack Development** - Amit Learning  
+✔ **React.js** - Itrax Academy  
+✔ **Node.js and Express** - ITI  
 
 ---
 
 ## 🌍 Languages  
-<p align="center">
-  🇪🇬 **Arabic** – Native  
-  🇬🇧 **English** – Proficient  
-</p>
+🇪🇬 **Arabic** – Native  
+🇬🇧 **English** – Proficient  
 
 ---
 
