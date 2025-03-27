@@ -1,8 +1,5 @@
-<h1 align="center">Hi, I'm Beshoy Nasry 👋</h1>
-
-<p align="center">
-  <b>Full Stack MERN Developer</b>
-</p>
+<h1 align="center">Hi 👋, I'm Beshoy Nasry</h1>
+<h3 align="center">🚀 Full Stack MERN Developer | Passionate about Scalable Web Solutions</h3>
 
 <p align="center">
   <a href="https://github.com/beshoynasryz">
@@ -18,11 +15,13 @@
 
 ---
 
-## 📫 Connect With Me
+## 🌍 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://beshoynasry.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beshoy-nasry-2a3627220/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beshoynasryz)
+<p align="center">
+  <a href="https://beshoynasry.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/beshoy-nasry-2a3627220/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/beshoynasryz"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 📍 **Location:** El-Nozha 2, Egypt  
 📱 **Phone:** +20 109 560 4355  
@@ -30,35 +29,44 @@
 
 ---
 
-## 🛠 Tech Stack
+## ⚡ About Me
+- 💻 Full Stack Developer with **1.5+ years of experience** in **MERN Stack Development**.
+- 🚀 Passionate about building **scalable**, **efficient**, and **user-friendly** applications.
+- 🎯 Skilled in **React.js, Redux, Node.js, Express.js, MongoDB, and Next.js**.
+- 🌱 Currently exploring **high-performance backend architectures and automation testing**.
+- 💡 Love **problem-solving**, **competitive coding**, and **open-source contributions**.
 
-**Frontend:**  
+---
+
+## 🔥 Tech Stack
+
+### **Frontend**  
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Backend:**  
+### **Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-%23000000.svg?style=for-the-badge&logo=socket.io&logoColor=white)
 
-**Databases:**  
+### **Databases**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Tools & Services:**  
+### **DevOps & Tools**  
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 🏆 LeetCode Stats
+## 🏆 LeetCode Stats  
 
 <p align="center">
   <a href="https://leetcode.com/u/beshoynasry0/">
-    <img src="https://leetcard.jacoblin.cool/beshoynasry0?theme=dark&font=Montserrat" alt="LeetCode Stats">
+    <img src="https://leetcard.jacoblin.cool/beshoynasry0?theme=dark&font=Montserrat&ext=heatmap" alt="LeetCode Stats">
   </a>
 </p>
 
@@ -85,23 +93,23 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-- **Engineer Project Management Platform** – Developed REST APIs & backend for a project management platform  
-- **Juant Booking Site** – Created a booking platform for workspaces and restaurants  
-- **E-commerce Platform** – Built a responsive online store with secure JWT authentication  
-- **Portfolio Website** – A dynamic **React.js** portfolio showcasing my projects and skills  
+- **🔹 Engineer Project Management Platform** – Developed REST APIs & backend for a project management platform  
+- **🔹 Juant Booking Site** – Created a booking platform for workspaces and restaurants  
+- **🔹 E-commerce Platform** – Built a responsive online store with secure JWT authentication  
+- **🔹 Portfolio Website** – A dynamic **React.js** portfolio showcasing my projects and skills  
 
 ---
 
-## 🎓 Education
+## 🎓 Education  
 
 🎓 **Bachelor’s Degree in Computer Science**  
 📍 Modern Academy, Egypt | **2019 – 2023**  
 
 ---
 
-## 📜 Certifications & Training
+## 📜 Certifications & Training  
 
 ✔ **Full-Stack Development** - Amit Learning  
 ✔ **React.js** - Itrax Academy  
@@ -109,12 +117,11 @@
 
 ---
 
-## 🌍 Languages
+## 🌍 Languages  
 
 🇪🇬 **Arabic** – Native  
 🇬🇧 **English** – Proficient  
 
 ---
 
-### 🚀 **Let's Build Something Amazing!**  
-Feel free to reach out and collaborate! 😃  
+<h3 align="center">🚀 Let's Build Something Amazing Together! 🤝</h3>
