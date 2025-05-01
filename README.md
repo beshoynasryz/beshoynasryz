@@ -7,13 +7,13 @@
 
 <p align="center">
   <a href="https://github.com/beshoynasryz">
-    <img src="https://img.shields.io/github/followers/beshoynasryz?label=Followers&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/beshoynasryz?label=Followers&style=social" />
   </a>
   <a href="https://leetcode.com/u/beshoynasry0/">
-    <img src="https://img.shields.io/badge/LeetCode-BeshoyNasry-orange?style=flat&logo=leetcode" alt="LeetCode Profile" />
+    <img src="https://img.shields.io/badge/LeetCode-BeshoyNasry-orange?style=flat&logo=leetcode" />
   </a>
   <a href="mailto:beshoynasry0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-beshoynasry0%40gmail.com-red?style=flat&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-beshoynasry0%40gmail.com-red?style=flat&logo=gmail" />
   </a>
 </p>
 
@@ -45,12 +45,34 @@
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beshoynasryz&theme=radical" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=beshoynasryz&show_icons=true&theme=radical&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=beshoynasryz&theme=radical&hide_border=true" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beshoynasryz&layout=compact&theme=radical&hide_border=true" />
 </p>
+
+---
+
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=beshoynasryz&theme=radical&row=1&column=8" />
+</p>
+
+---
+
+## 📈 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=beshoynasryz&theme=react-dark&area=true&hide_border=true" />
+</p>
+
+---
+
+## ⌛ Time Spent Coding  
+<!-- You need to connect Wakatime for this to work -->
+<!-- Replace `beshoynasryz` with your Wakatime username -->
+<!-- Only shows if using Wakatime API -->
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=beshoynasryz&theme=radical" />
+</p> -->
 
 ---
 
@@ -64,18 +86,9 @@
 ---
 
 ## 💼 Work Experience  
-🔹 **Full Stack Developer | Mahm El Khaleg** - Remote, Kuwait | <strong>May 2024 – Present</strong>  
-- Developed **RESTful APIs** with **JWT Authentication** and **role-based access control**.  
-- Integrated **Tap Payment**, **Vonage SMS**, and **Socket.io** for real-time updates.  
-- Optimized **React + Next.js** applications for performance using **SSR and SSG**.  
-
-🔹 **Full Stack Developer | All Safe** - Cairo, Egypt | <strong>Jan 2024 – Mar 2024</strong>  
-- Designed a **Lawyer Case Management System** with real-time status updates.  
-- Built an **Admin Dashboard** with user/role management & secure payment integration.  
-
-🔹 **Backend Developer Intern | Algoriza** - Egypt | <strong>Aug 2023 – Dec 2023</strong>  
-- Built scalable backend services with **Node.js, Express, and MongoDB**.  
-- Applied **Repository and Onion Architecture** for structured codebases.  
+🔹 **Full Stack Developer | Mahm El Khaleg** – Remote, Kuwait | <strong>May 2024 – Present</strong>  
+🔹 **Full Stack Developer | All Safe** – Cairo, Egypt | <strong>Jan 2024 – Mar 2024</strong>  
+🔹 **Backend Developer Intern | Algoriza** – Egypt | <strong>Aug 2023 – Dec 2023</strong>  
 
 ---
 
@@ -96,9 +109,9 @@
 ---
 
 ## 📜 Certifications & Training  
-✔ **Full-Stack Development** - Amit Learning  
-✔ **React.js** - Itrax Academy  
-✔ **Node.js and Express** - ITI  
+✔ **Full-Stack Development** – Amit Learning  
+✔ **React.js** – Itrax Academy  
+✔ **Node.js and Express** – ITI  
 
 ---
 
