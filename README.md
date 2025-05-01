@@ -1,50 +1,38 @@
-<!-- Animated Typing Header -->
+<!-- Typing Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hey+%F0%9F%91%8B%2C+I'm+Beshoy+Nasry!;Full+Stack+MERN+Developer+%F0%9F%92%BB;Building+Robust+Web+Apps+%F0%9F%9A%80;Lifelong+Learner+%F0%9F%93%9A;Open+to+Collaborations+%F0%9F%A4%9D" />
 </p>
 
-<h3 align="center">🚀 Full Stack MERN Developer | Passionate about Scalable Web Solutions</h3>
+<h3 align="center">⚡ MERN Developer | Clean Architecture Advocate | Passionate About Automation</h3>
 
 <p align="center">
   <a href="https://github.com/beshoynasryz">
     <img src="https://img.shields.io/github/followers/beshoynasryz?label=Followers&style=social" />
   </a>
-  <a href="https://leetcode.com/u/beshoynasry0/">
-    <img src="https://img.shields.io/badge/LeetCode-BeshoyNasry-orange?style=flat&logo=leetcode" />
-  </a>
   <a href="mailto:beshoynasry0@gmail.com">
     <img src="https://img.shields.io/badge/Email-beshoynasry0%40gmail.com-red?style=flat&logo=gmail" />
   </a>
+  <a href="https://leetcode.com/u/beshoynasry0/">
+    <img src="https://img.shields.io/badge/LeetCode-BeshoyNasry-orange?style=flat&logo=leetcode" />
+  </a>
+  <a href="https://linkedin.com/in/beshoy-nasry-2a3627220/">
+    <img src="https://img.shields.io/badge/LinkedIn-BeshoyNasry-blue?style=flat&logo=linkedin" />
+  </a>
 </p>
-
----
-
-## 🚀 About Me  
-🔹 Full Stack Developer with **2+ years** of hands-on experience building scalable web applications using the **MERN Stack**.  
-🔹 Strong foundation in **REST APIs, authentication systems, real-time communication**, and optimized frontends using **React/Next.js**.  
-🔹 Passionate about solving real-world problems through **clean architecture, modular code**, and **CI/CD pipelines**.  
-🔹 Always learning: currently diving deeper into **automated testing**, **system design**, and **backend performance**.  
-🔹 I love contributing to **open source**, tackling **LeetCode problems**, and mentoring junior devs whenever I can.  
-
----
-
-## 🧠 Currently Working On  
-- 🚀 Building a full-stack e-commerce app with Next.js App Router, Tailwind, and clean architecture.  
-- 🧪 Learning **Playwright** & **Cypress** for E2E testing in CI/CD pipelines.  
-- 📖 Deep-diving into **advanced system design patterns** and scalable microservice architecture.
 
 ---
 
 ## 🔥 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,nodejs,express,mongodb,mysql,git,github,docker,typescript,vscode,postman,graphql" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express,mongodb,mysql,tailwind,typescript,javascript,docker,git,github,vscode,graphql,postman,figma,vercel,netlify,aws" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## 📈 Advanced GitHub Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beshoynasryz&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=beshoynasryz&theme=radical&no-frame=true&margin-w=10&column=7" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=beshoynasryz&show_icons=true&theme=radical&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=beshoynasryz&theme=radical&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beshoynasryz&layout=compact&theme=radical&hide_border=true" />
@@ -52,87 +40,57 @@
 
 ---
 
-## 🏆 GitHub Trophies  
+## 📊 Contribution Graph & Activity Heatmap
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=beshoynasryz&theme=radical&row=1&column=8" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=beshoynasryz&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
 
-## 📈 Contribution Graph  
+## 🧠 Currently Learning
+- ✅ Advanced System Design
+- ✅ Microservices & Event-Driven Architecture (RabbitMQ, Kafka)
+- ✅ Playwright, Cypress, and E2E in CI/CD
+- ✅ Clean Architecture & SOLID Principles in Large Projects
+
+---
+
+## 🧪 CI/CD & Testing Tools
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=beshoynasryz&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=githubactions,vercel,netlify,jenkins" />
+  <img src="https://img.shields.io/badge/Testing-Playwright-blueviolet?style=for-the-badge&logo=playwright" />
+  <img src="https://img.shields.io/badge/Testing-Cypress-green?style=for-the-badge&logo=cypress" />
 </p>
 
 ---
 
-## ⌛ Time Spent Coding  
-<!-- You need to connect Wakatime for this to work -->
-<!-- Replace `beshoynasryz` with your Wakatime username -->
-<!-- Only shows if using Wakatime API -->
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=beshoynasryz&theme=radical" />
-</p> -->
+## 💼 Experience Summary
+| Role | Company | Tech Used | Dates |
+|------|---------|-----------|--------|
+| Full Stack Dev | Mahm El Khaleg (Remote, Kuwait) | Node.js, Next.js, Socket.io, JWT | May 2024 – Present |
+| Full Stack Dev | All Safe (Egypt) | React, MongoDB, Tailwind, Stripe | Jan 2024 – Mar 2024 |
+| Backend Intern | Algoriza (Egypt) | Express, MongoDB, REST, JWT | Aug 2023 – Dec 2023 |
 
 ---
 
-## 🏆 LeetCode Stats  
+## 🌐 Featured Projects
+| Project | Description | Stack |
+|--------|-------------|--------|
+| 🛒 E-Commerce App | Online store with Auth, Cart, Dashboard | MERN, Redux Toolkit |
+| 🧠 Engineer Mgmt | API platform for teams/projects | Node, MongoDB, JWT |
+| 📦 Juant Booking | Workspace/restaurant booking | Next.js, Prisma |
+| 🌐 Portfolio | My dynamic dev portfolio | React, Tailwind CSS |
+
+---
+
+## 🧩 DevCard (Dynamic Profile Widget)
 <p align="center">
-  <a href="https://leetcode.com/u/beshoynasry0/">
-    <img src="https://leetcard.jacoblin.cool/beshoynasry0?theme=dark&font=Montserrat&ext=heatmap" />
-  </a>
+  <img src="https://api.daily.dev/devcards/beshoynasryz?border_color=1F1F1F&background_color=181818&title_color=F7F7F7&hide_border=true" width="400" alt="Beshoy's Dev Card"/>
 </p>
 
 ---
 
-## 💼 Work Experience  
-🔹 **Full Stack Developer | Mahm El Khaleg** – Remote, Kuwait | <strong>May 2024 – Present</strong>  
-🔹 **Full Stack Developer | All Safe** – Cairo, Egypt | <strong>Jan 2024 – Mar 2024</strong>  
-🔹 **Backend Developer Intern | Algoriza** – Egypt | <strong>Aug 2023 – Dec 2023</strong>  
-
----
-
-## 🚀 Featured Projects  
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [🧠 Engineer Management Platform](#) | REST APIs for managing engineering projects and teams. | Node.js, Express, MongoDB, JWT |
-| [📦 Juant Booking Site](#) | Workspace and restaurant booking system with authentication. | Next.js, Tailwind, Prisma |
-| [🛒 E-Commerce App](#) | Secure online store with cart, auth, and dashboard. | MERN, Redux Toolkit, Stripe |
-| [🌐 Portfolio](https://beshoynasry.vercel.app/) | Dynamic React portfolio site with project showcase. | React.js, Tailwind CSS |
-
----
-
-## 🎓 Education  
-🎓 <strong>Bachelor’s Degree in Computer Science</strong>  
-📍 Modern Academy, Egypt | <strong>2019 – 2023</strong>  
-
----
-
-## 📜 Certifications & Training  
-✔ **Full-Stack Development** – Amit Learning  
-✔ **React.js** – Itrax Academy  
-✔ **Node.js and Express** – ITI  
-
----
-
-## 🌍 Languages  
-🇪🇬 **Arabic** – Native  
-🇬🇧 **English** – Proficient  
-
----
-
-## 📍 Location & Contact  
-<p align="center">
-  📍 <strong>Location:</strong> El-Nozha 2, Egypt  
-  <br>
-  📱 <strong>Phone:</strong> +20 109 560 4355  
-  <br>
-  🌐 <a href="https://beshoynasry.vercel.app/">Portfolio</a> | 🔗 <a href="https://www.linkedin.com/in/beshoy-nasry-2a3627220/">LinkedIn</a> | 💻 <a href="https://github.com/beshoynasryz">GitHub</a>
-</p>
-
----
-
-## 📬 Contact Me  
+## 📬 Contact Me
 <p align="center">
   <a href="mailto:beshoynasry0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/beshoy-nasry-2a3627220/"><img src="https://img.shields.io/badge/LinkedIn-BeshoyNasry-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -141,8 +99,18 @@
 
 ---
 
+## 📍 Location & Contact
+<p align="center">
+  📍 El-Nozha 2, Egypt  
+  <br/>
+  📱 +20 109 560 4355  
+  <br/>
+  🌐 <a href="https://beshoynasry.vercel.app/">Portfolio</a> | 🔗 <a href="https://linkedin.com/in/beshoy-nasry-2a3627220/">LinkedIn</a> | 💻 <a href="https://github.com/beshoynasryz">GitHub</a>
+</p>
+
+---
+
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=beshoynasryz.readme" alt="Visitors" />
-  <img src="https://img.shields.io/badge/Maintained-Yes-green?style=flat-square" />
   <img src="https://komarev.com/ghpvc/?username=beshoynasryz&color=blue" />
 </p>
