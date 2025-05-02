@@ -1,77 +1,64 @@
-# 🔥 **Advanced GitHub Profile README** 🔥  
-
-### **🚀 Senior Full Stack MERN Developer | System Design Enthusiast | Open Source Contributor**  
-
+<!-- Animated Typing Header -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Beshoy+Nasry!;Full+Stack+Engineer+%F0%9F%92%BB;MERN+Stack+%7C+Next.js+%7C+TypeScript;System+Design+%7C+Microservices+%F0%9F%9A%80;Tech+Writer+%7C+Open+Source+%F0%9F%A4%9D" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hey+%F0%9F%91%8B%2C+I'm+Beshoy+Nasry!;Full+Stack+MERN+Developer+%F0%9F%92%BB;Building+Robust+Web+Apps+%F0%9F%9A%80;Lifelong+Learner+%F0%9F%93%9A;Open+to+Collaborations+%F0%9F%A4%9D" />
 </p>
 
----
-
-## **🛠️ Tech Stack & Expertise**  
-
-### **🌐 Frontend**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&style=flat)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)  
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)  
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat)  
-
-### **⚙️ Backend**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)  
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat)  
-
-### **🗃️ Databases**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)  
-
-
-### **🛠️ DevOps & Cloud**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)    
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat)  
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=flat)  
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat)  
-
-### **🧪 Testing & CI/CD**  
-![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat)  
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=flat)  
-![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?logo=playwright&logoColor=white&style=flat)  
-
----
-
-## **📊 GitHub Analytics & Stats**  
+<h3 align="center">🚀 Full Stack MERN Developer | Passionate about Scalable Web Solutions</h3>
 
 <p align="center">
   <a href="https://github.com/beshoynasryz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beshoynasryz&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beshoynasryz&layout=compact&theme=radical&langs_count=8" />
+    <img src="https://img.shields.io/github/followers/beshoynasryz?label=Followers&style=social" alt="GitHub Followers" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beshoynasryz&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=beshoynasryz&theme=radical&margin-w=15&margin-h=15&column=7" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beshoynasryz&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=beshoynasryz&theme=react-dark&hide_border=true&custom_title=My%20Contribution%20Graph" />
+  <a href="https://leetcode.com/u/beshoynasry0/">
+    <img src="https://img.shields.io/badge/LeetCode-BeshoyNasry-orange?style=flat&logo=leetcode" alt="LeetCode Profile" />
+  </a>
+  <a href="mailto:beshoynasry0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-beshoynasry0%40gmail.com-red?style=flat&logo=gmail" alt="Email" />
+  </a>
 </p>
 
 ---
 
-## **🏆 LeetCode & Competitive Programming**  
+## 🚀 About Me  
+🔹 Full Stack Developer with **2+ years** of hands-on experience building scalable web applications using the **MERN Stack**.  
+🔹 Strong foundation in **REST APIs, authentication systems, real-time communication**, and optimized frontends using **React/Next.js**.  
+🔹 Passionate about solving real-world problems through **clean architecture, modular code**, and **CI/CD pipelines**.  
+🔹 Always learning: currently diving deeper into **automated testing**, **system design**, and **backend performance**.  
+🔹 I love contributing to **open source**, tackling **LeetCode problems**, and mentoring junior devs whenever I can.  
 
+---
+
+## 🧠 Currently Working On  
+- 🚀 Building a full-stack e-commerce app with Next.js App Router, Tailwind, and clean architecture.  
+- 🧪 Learning **Playwright** & **Cypress** for E2E testing in CI/CD pipelines.  
+- 📖 Deep-diving into **advanced system design patterns** and scalable microservice architecture.
+
+---
+
+## 🔥 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,nodejs,express,mongodb,mysql,git,github,docker,typescript,vscode,postman,graphql" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beshoynasryz&theme=radical" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=beshoynasryz&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beshoynasryz&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beshoynasryz&layout=compact&theme=radical&hide_border=true" />
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=beshoynasryz&theme=radical&margin-w=10&margin-h=10" />
+  <br />
+  <img src="https://activity-graph.herokuapp.com/graph?username=beshoynasryz&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🏆 LeetCode Stats  
 <p align="center">
   <a href="https://leetcode.com/u/beshoynasry0/">
     <img src="https://leetcard.jacoblin.cool/beshoynasry0?theme=dark&font=Montserrat&ext=heatmap" />
@@ -80,67 +67,76 @@
 
 ---
 
-## **🚀 Featured Projects**  
+## 💼 Work Experience  
+🔹 **Full Stack Developer | Mahm El Khaleg** - Remote, Kuwait | <strong>May 2024 – Present</strong>  
+- Developed **RESTful APIs** with **JWT Authentication** and **role-based access control**.  
+- Integrated **Tap Payment**, **Vonage SMS**, and **Socket.io** for real-time updates.  
+- Optimized **React + Next.js** applications for performance using **SSR and SSG**.  
 
-| **Project** | **Description** | **Tech Stack** |  
-|------------|----------------|----------------|  
-| **[🔐 Auth Microservice](https://github.com/beshoynasryz/auth-microservice)** | JWT-based auth with RBAC & OAuth 2.0 | Node.js, Express, MongoDB, Redis |  
-| **[🛒 E-Commerce Platform](https://github.com/beshoynasryz/ecommerce-nextjs)** | Full-stack e-commerce with payments | Next.js, Stripe, Tailwind, Prisma |  
-| **[📊 Real-Time Dashboard](https://github.com/beshoynasryz/realtime-dashboard)** | Live analytics with WebSockets | React, Socket.io, Chart.js |  
-| **[🤖 AI Chatbot](https://github.com/beshoynasryz/ai-chatbot)** | OpenAI-powered chatbot | Python, FastAPI, React |  
+🔹 **Full Stack Developer | All Safe** - Cairo, Egypt | <strong>Jan 2024 – Mar 2024</strong>  
+- Designed a **Lawyer Case Management System** with real-time status updates.  
+- Built an **Admin Dashboard** with user/role management & secure payment integration.  
 
----
-
-## **📌 Currently Learning & Exploring**  
-- **🚀 Advanced System Design** (Microservices, Event-Driven Architecture)  
-- **🧪 Automated Testing & CI/CD Pipelines** (Playwright, GitHub Actions)  
-- **☁️ Cloud & DevOps** (AWS, Kubernetes, Terraform)  
-- **📱 Mobile Development** (React Native, Flutter)  
+🔹 **Backend Developer Intern | Algoriza** - Egypt | <strong>Aug 2023 – Dec 2023</strong>  
+- Built scalable backend services with **Node.js, Express, and MongoDB**.  
+- Applied **Repository and Onion Architecture** for structured codebases.  
 
 ---
 
-## **📬 Let's Connect!**  
+## 🚀 Featured Projects  
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [🧠 Engineer Management Platform](#) | REST APIs for managing engineering projects and teams. | Node.js, Express, MongoDB, JWT |
+| [📦 Juant Booking Site](#) | Workspace and restaurant booking system with authentication. | Next.js, Tailwind, Prisma |
+| [🛒 E-Commerce App](#) | Secure online store with cart, auth, and dashboard. | MERN, Redux Toolkit, Stripe |
+| [🌐 Portfolio](https://beshoynasry.vercel.app/) | Dynamic React portfolio site with project showcase. | React.js, Tailwind CSS |
 
+---
+
+## 🎓 Education  
+🎓 <strong>Bachelor’s Degree in Computer Science</strong>  
+📍 Modern Academy, Egypt | <strong>2019 – 2023</strong>  
+
+---
+
+## 📜 Certifications & Training  
+✔ **Full-Stack Development** - Amit Learning  
+✔ **React.js** - Itrax Academy  
+✔ **Node.js and Express** - ITI  
+
+---
+
+## 🌍 Languages  
+🇪🇬 **Arabic** – Native  
+🇬🇧 **English** – Proficient  
+
+---
+
+## 📍 Location & Contact  
 <p align="center">
-  <a href="https://www.linkedin.com/in/beshoy-nasry-2a3627220/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:beshoynasry0@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://beshoynasry.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/beshoynasryz">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+  📍 <strong>Location:</strong> El-Nozha 2, Egypt  
+  <br />
+  📱 <strong>Phone:</strong> +20 109 560 4355  
+  <br />
+  🌐 <a href="https://beshoynasry.vercel.app/">Portfolio</a> | 🔗 <a href="https://www.linkedin.com/in/beshoy-nasry-2a3627220/">LinkedIn</a> | 💻 <a href="https://github.com/beshoynasryz">GitHub</a>
+</p>
+
+---
+
+## 📬 Contact Me  
+<p align="center">
+  <a href="mailto:beshoynasry0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/beshoy-nasry-2a3627220/"><img src="https://img.shields.io/badge/LinkedIn-BeshoyNasry-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/beshoynasryz"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=beshoynasryz&label=Profile+Views&color=blue&style=flat" alt="Profile Views" />
-  <img src="https://wakatime.com/badge/user/your-wakatime-id.svg" alt="WakaTime Coding Stats" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=beshoynasryz.readme" alt="Visitors" />
+  <img src="https://img.shields.io/badge/Maintained-Yes-green?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=beshoynasryz&color=blue" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/last-commit/beshoynasryz/beshoynasryz?label=Last+Update&style=flat" />
-</p>
-
----
-
-### **⚡ Fun Fact:**  
-*"I automate my coffee brewing with a Raspberry Pi because why not? ☕🤖"*  
-
----
-
-⭐ **Feel free to fork, star, or contribute to my projects!** ⭐  
-
-This README is **dynamically updated** with GitHub Actions! 🚀  
-
----  
-
-**Made with ❤️ by [Beshoy Nasry](https://github.com/beshoynasryz)**  
-
-```javascript
-console.log("Keep Coding & Stay Awesome! 🚀");
+upgrade my readme file add new skills and add more statistcs 
+please i need this be advanced okay
