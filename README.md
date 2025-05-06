@@ -138,5 +138,3 @@
   <img src="https://komarev.com/ghpvc/?username=beshoynasryz&color=blue" />
 </p>
 
-upgrade my readme file add new skills and add more statistcs 
-please i need this be advanced okay
