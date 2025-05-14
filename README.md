@@ -68,7 +68,12 @@
 ---
 
 ## 💼 Work Experience  
-🔹 **Full Stack Developer | Mahm El Khaleg** - Remote, Kuwait | <strong>May 2024 – Present</strong>  
+🔹 **Full Stack Developer | Salem Ventures** - Cairo, Egypt | <strong>Jan 2023 – Present</strong>  
+- Developing scalable full-stack applications with **Next.js**, **Node.js**, and **MongoDB**.  
+- Implementing **real-time notifications**, **payment gateways**, and **role-based dashboards**.  
+- Ensuring code quality with **unit tests**, **CI/CD pipelines**, and **clean architecture**.  
+
+🔹 **Full Stack Developer | Mahm El Khaleg** - Remote, Kuwait | <strong>May 2024 – Dec 2024</strong>  
 - Developed **RESTful APIs** with **JWT Authentication** and **role-based access control**.  
 - Integrated **Tap Payment**, **Vonage SMS**, and **Socket.io** for real-time updates.  
 - Optimized **React + Next.js** applications for performance using **SSR and SSG**.  
