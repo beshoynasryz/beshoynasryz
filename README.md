@@ -19,6 +19,13 @@
 
 ---
 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=beshoynasryz.readme" alt="Visitors" />
+  <img src="https://img.shields.io/badge/Maintained-Yes-green?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=beshoynasryz&color=blue" />
+</p>
+
+
 ## 🚀 About Me  
 🔹 Full Stack Developer with **2+ years** of hands-on experience building scalable web applications using the **MERN Stack**.  
 🔹 Strong foundation in **REST APIs, authentication systems, real-time communication**, and optimized frontends using **React/Next.js**.  
@@ -67,55 +74,6 @@
 
 ---
 
-## 💼 Work Experience  
-🔹 **Full Stack Developer | Salem Ventures** - Cairo, Egypt | <strong>Jan 2023 – Present</strong>  
-- Developing scalable full-stack applications with **Next.js**, **Node.js**, and **MongoDB**.  
-- Implementing **real-time notifications**, **payment gateways**, and **role-based dashboards**.  
-- Ensuring code quality with **unit tests**, **CI/CD pipelines**, and **clean architecture**.  
-
-🔹 **Full Stack Developer | Mahm El Khaleg** - Remote, Kuwait | <strong>May 2024 – Dec 2024</strong>  
-- Developed **RESTful APIs** with **JWT Authentication** and **role-based access control**.  
-- Integrated **Tap Payment**, **Vonage SMS**, and **Socket.io** for real-time updates.  
-- Optimized **React + Next.js** applications for performance using **SSR and SSG**.  
-
-🔹 **Full Stack Developer | All Safe** - Cairo, Egypt | <strong>Jan 2024 – Mar 2024</strong>  
-- Designed a **Lawyer Case Management System** with real-time status updates.  
-- Built an **Admin Dashboard** with user/role management & secure payment integration.  
-
-🔹 **Backend Developer Intern | Algoriza** - Egypt | <strong>Aug 2023 – Dec 2023</strong>  
-- Built scalable backend services with **Node.js, Express, and MongoDB**.  
-- Applied **Repository and Onion Architecture** for structured codebases.  
-
----
-
-## 🚀 Featured Projects  
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [🧠 Engineer Management Platform](#) | REST APIs for managing engineering projects and teams. | Node.js, Express, MongoDB, JWT |
-| [📦 Juant Booking Site](#) | Workspace and restaurant booking system with authentication. | Next.js, Tailwind, Prisma |
-| [🛒 E-Commerce App](#) | Secure online store with cart, auth, and dashboard. | MERN, Redux Toolkit, Stripe |
-| [🌐 Portfolio](https://beshoynasry.vercel.app/) | Dynamic React portfolio site with project showcase. | React.js, Tailwind CSS |
-
----
-
-## 🎓 Education  
-🎓 <strong>Bachelor’s Degree in Computer Science</strong>  
-📍 Modern Academy, Egypt | <strong>2019 – 2023</strong>  
-
----
-
-## 📜 Certifications & Training  
-✔ **Full-Stack Development** - Amit Learning  
-✔ **React.js** - Itrax Academy  
-✔ **Node.js and Express** - ITI  
-
----
-
-## 🌍 Languages  
-🇪🇬 **Arabic** – Native  
-🇬🇧 **English** – Proficient  
-
----
 
 ## 📍 Location & Contact  
 <p align="center">
@@ -136,10 +94,4 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=beshoynasryz.readme" alt="Visitors" />
-  <img src="https://img.shields.io/badge/Maintained-Yes-green?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=beshoynasryz&color=blue" />
-</p>
 
