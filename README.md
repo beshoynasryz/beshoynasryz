@@ -26,22 +26,6 @@
 </p>
 
 
-## 🚀 About Me  
-🔹 Full Stack Developer with **2+ years** of hands-on experience building scalable web applications using the **MERN Stack**.  
-🔹 Strong foundation in **REST APIs, authentication systems, real-time communication**, and optimized frontends using **React/Next.js**.  
-🔹 Passionate about solving real-world problems through **clean architecture, modular code**, and **CI/CD pipelines**.  
-🔹 Always learning: currently diving deeper into **automated testing**, **system design**, and **backend performance**.  
-🔹 I love contributing to **open source**, tackling **LeetCode problems**, and mentoring junior devs whenever I can.  
-
----
-
-## 🧠 Currently Working On  
-- 🚀 Building a full-stack e-commerce app with Next.js App Router, Tailwind, and clean architecture.  
-- 🧪 Learning **Playwright** & **Cypress** for E2E testing in CI/CD pipelines.  
-- 📖 Deep-diving into **advanced system design patterns** and scalable microservice architecture.
-
----
-
 ## 🔥 Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,nodejs,express,mongodb,mysql,git,github,docker,typescript,vscode,postman,graphql" />
